@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "dimmer")(type "KiCad")(uri "${KIPRJMOD}/lib/dimmer/dimmer.kicad_sym")(options "")(descr ""))
+)

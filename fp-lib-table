@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "dimmer")(type "KiCad")(uri "${KIPRJMOD}/lib/dimmer/dimmer.pretty")(options "")(descr ""))
+)
