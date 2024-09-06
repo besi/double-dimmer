@@ -464,7 +464,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "doc/double-dimmer.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
